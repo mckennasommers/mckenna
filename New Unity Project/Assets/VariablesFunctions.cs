@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Script1 : MonoBehaviour 
+public class VariablesFunctions : MonoBehaviour 
 {
 	
 	public int myInt = 5;
